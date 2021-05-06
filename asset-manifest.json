@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Frontpage/static/css/main.d3b57d1b.chunk.css",
+    "main.js": "/React-Frontpage/static/js/main.59793a1b.chunk.js",
+    "main.js.map": "/React-Frontpage/static/js/main.59793a1b.chunk.js.map",
+    "runtime-main.js": "/React-Frontpage/static/js/runtime-main.81ea3b6e.js",
+    "runtime-main.js.map": "/React-Frontpage/static/js/runtime-main.81ea3b6e.js.map",
+    "static/css/2.45c54f22.chunk.css": "/React-Frontpage/static/css/2.45c54f22.chunk.css",
+    "static/js/2.794502d8.chunk.js": "/React-Frontpage/static/js/2.794502d8.chunk.js",
+    "static/js/2.794502d8.chunk.js.map": "/React-Frontpage/static/js/2.794502d8.chunk.js.map",
+    "index.html": "/React-Frontpage/index.html",
+    "static/css/2.45c54f22.chunk.css.map": "/React-Frontpage/static/css/2.45c54f22.chunk.css.map",
+    "static/css/main.d3b57d1b.chunk.css.map": "/React-Frontpage/static/css/main.d3b57d1b.chunk.css.map",
+    "static/js/2.794502d8.chunk.js.LICENSE.txt": "/React-Frontpage/static/js/2.794502d8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Frontpage/static/media/bg-shorten-desktop.0d9742f4.svg",
+    "static/media/font-awesome.min.css": "/React-Frontpage/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/React-Frontpage/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/React-Frontpage/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-facebook.229c75a0.svg": "/React-Frontpage/static/media/icon-facebook.229c75a0.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/React-Frontpage/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/icon-instagram.df587328.svg": "/React-Frontpage/static/media/icon-instagram.df587328.svg",
+    "static/media/icon-pinterest.a2d25ab4.svg": "/React-Frontpage/static/media/icon-pinterest.a2d25ab4.svg",
+    "static/media/icon-twitter.1d5c6d5e.svg": "/React-Frontpage/static/media/icon-twitter.1d5c6d5e.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/React-Frontpage/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/logo1.83464303.svg": "/React-Frontpage/static/media/logo1.83464303.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ea3b6e.js",
+    "static/css/2.45c54f22.chunk.css",
+    "static/js/2.794502d8.chunk.js",
+    "static/css/main.d3b57d1b.chunk.css",
+    "static/js/main.59793a1b.chunk.js"
+  ]
+}
